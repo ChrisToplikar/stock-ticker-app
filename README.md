@@ -29,3 +29,6 @@ Here is an example of the application running.
 
 [logo]: https://github.com/ChrisToplikar/stock-ticker-app/blob/master/stock-ticker-demo.JPG?raw=true
  "Application Demo"
+ 
+ ## Contributions
+ This project used the API available for free from Alpha Vantage https://www.alphavantage.co/ to collect JSON data of the stock market.
